@@ -1,6 +1,6 @@
 # Churn-Analysis
 
-This is a complete CHURN ANALYSIS project using SQL Server, Power BI & Python, we will cover a wide range of topics which includes
+This is a complete Churn Analysis project built using SQL Server, Power BI, and Python, incorporating a wide range of data analytics techniques such as
 ETL process in SQL Server
 Data Cleaning in SQL Server
 Power BI Transformations
