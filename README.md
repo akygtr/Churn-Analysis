@@ -36,7 +36,7 @@ The data set includes information about:
 26.99 % of customers switched to another firm.
 
 2. Churn distribution with respect to gender:
-   <img width="600" height="120" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
+   <img width="600" height="520" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
 
 4. 
 
