@@ -35,9 +35,34 @@ The data set includes information about:
 <img width="1298" height="170" alt="Screenshot 2025-09-10 131248" src="https://github.com/user-attachments/assets/679f63b8-53ac-4f18-b5ed-9cea7ba43939" />
 26.99 % of customers switched to another firm.
 
-2. Churn distribution with respect to gender:
-   <img width="600" height="520" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
+2. Churn distribution with respect to Gender:
+<img width="600" height="520" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
 
-4. 
+3. Churn distribution w.r.t Customer Contrat Distribution:
+<img width="600" height="520" alt="Contract Distribution" src="https://github.com/user-attachments/assets/39bfc6e8-9818-4e33-86d5-8e2e100a3615" />
+
+4. Churn distribution w.r.t Payment Methods:
+<img width="600" height="520" alt="Payment Menthod" src="https://github.com/user-attachments/assets/0584b405-0056-4b3b-88ce-f2b512d75802" />
+
+5. Churn distribution w.r.t Tenure Group:
+<img width="600" height="520" alt="Tenure Group" src="https://github.com/user-attachments/assets/e047b544-0d41-404e-ab87-95a66386b119" />
+
+6. Churn distribution w.r.t Age Distribution:
+<img width="600" height="520" alt="Age Group" src="https://github.com/user-attachments/assets/ad09f122-0ca3-438c-9703-8ee68a10fb6c" />
+
+7. Churn distribution w.r.t Top 5 States:
+<img width="600" height="520" alt="State" src="https://github.com/user-attachments/assets/87fb0c63-cfbb-4732-bce5-72033ac33a10" />
+
+8. Churn distribution w.r.t Behavioral Factors:
+<img width="600" height="520" alt="Churn Factors" src="https://github.com/user-attachments/assets/afa34180-6ae3-4a49-92a6-8ce00ab42961" />
+    
+9. Churn distribution w.r.t Internet Type:
+<img width="600" height="520" alt="Internet Type" src="https://github.com/user-attachments/assets/adb7dac6-3d04-4ef7-8395-db8715f7383f" />
+
+10. Churn distribution w.r.t Services
+<img  width="600" height="520" alt="Services" src="https://github.com/user-attachments/assets/1549c98b-87c6-4e07-ad76-c9c4cc2a63d6" />
+
+
+   
 
 
