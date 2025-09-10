@@ -65,8 +65,7 @@ Based on the chart, churn rate is highest among Fiber Optic customers at over 40
 10. Churn distribution w.r.t Services: Most customers use core services like Internet and Phone, but optional add-ons like Premium Support and Online Security are underutilized and highlighting upsell opportunities and churn risk among low-engagement users.
 <img  width="600" height="520" alt="Services" src="https://github.com/user-attachments/assets/1549c98b-87c6-4e07-ad76-c9c4cc2a63d6" />
 
-
-
+**CHURN ANALYSIS - PREDICTION**
 
    
 
