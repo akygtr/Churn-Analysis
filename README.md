@@ -154,6 +154,15 @@ Based on the **"Predicted Churner Profile" dashboard**, here’s a comprehensive
 4. **Segment by region and gender** for tailored retention strategies.
 5. **Focus on digital engagement** for female customers, who show higher churn.
 
+___
+
+### **Potential Customers At Risk**
+
+<img width="586" height="682" alt="image" src="https://github.com/user-attachments/assets/3dd19896-4052-4f9d-b18c-5b0061503106" />
+
+
+
+
 
 
 
