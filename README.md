@@ -33,5 +33,6 @@ The data set includes information about:
 
 1. Churn Distribution
 <img width="1298" height="170" alt="Screenshot 2025-09-10 131248" src="https://github.com/user-attachments/assets/679f63b8-53ac-4f18-b5ed-9cea7ba43939" />
+26.99 % of customers switched to another firm.
 
 
