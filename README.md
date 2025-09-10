@@ -75,6 +75,10 @@ Based on the chart, churn rate is highest among Fiber Optic customers at over 40
 
 # CHURN ANALYSIS - PREDICTION
 
+<img width="300" height="400" alt="Prediction profile" src="https://github.com/user-attachments/assets/19554a37-72cd-464b-9df1-979c469e0bea" />
+
+
+
 Based on the **"Predicted Churner Profile" dashboard**, here’s a comprehensive analysis of churn prediction insights:
 
 ---
