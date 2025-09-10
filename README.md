@@ -67,6 +67,64 @@ Based on the chart, churn rate is highest among Fiber Optic customers at over 40
 
 # CHURN ANALYSIS - PREDICTION
 
-   
+Based on the **"Predicted Churner Profile" dashboard**, here’s a comprehensive analysis of churn prediction insights:
+
+---
+
+### 🔍 **Overall Churn Distribution**
+- **Female churners**: 246
+- **Male churners**: 132  
+→ **Females are nearly twice as likely to churn** compared to males in this dataset.
+
+---
+
+### 👩 **Female Churner Insights**
+
+#### **Age Group**
+- Highest churn: **>50 years** and **35–50 years**
+- Lowest churn: **<20 years**  
+→ Older customers are more likely to churn.
+
+#### **Tenure Group**
+- Most churn: **≥24 months** and **12–18 months**
+- Least churn: **<6 months**  
+→ Long-term customers are still churning, possibly due to dissatisfaction or lack of engagement.
+
+#### **Marital Status**
+- Slightly more churn among **unmarried** customers  
+→ Marital status may influence service needs or loyalty.
+
+#### **Payment Method**
+- Highest churn: **Credit Card**
+- Moderate churn: **Bank Withdrawal**
+- Lowest churn: **Mailed Check**  
+→ Digital payment users may churn more, possibly due to ease of switching or billing issues.
+
+---
+
+### 👨 **Male Churner Insights**
+
+#### **State-wise Distribution**
+- Churn is spread across **Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka**, and others.
+- No single state dominates, but **Uttar Pradesh and Maharashtra** show relatively higher churn.
+
+#### **Contract Type**
+- Overwhelming churn from **Monthly contracts**
+- Very low churn from **One-year and Two-year contracts**  
+→ **Contract length is a strong retention factor**—longer contracts reduce churn.
+
+---
+
+### 💡 **Actionable Insights**
+
+1. **Target long-tenure and older customers** with loyalty programs or personalized offers.
+2. **Encourage longer contracts** to reduce churn, especially among monthly users.
+3. **Investigate credit card billing experience**—may be causing dissatisfaction.
+4. **Segment by region and gender** for tailored retention strategies.
+5. **Focus on digital engagement** for female customers, who show higher churn.
+
+---
+
+Would you like help visualizing this data or building a churn prediction model from it?   
 
 
