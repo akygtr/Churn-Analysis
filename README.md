@@ -35,9 +35,10 @@ The data set includes information about:
 <img width="1298" height="170" alt="Screenshot 2025-09-10 131248" src="https://github.com/user-attachments/assets/679f63b8-53ac-4f18-b5ed-9cea7ba43939" />
 26.99 % of customers switched to another firm.
 
+
 2. Churn distribution with respect to Gender:
-<img width="600" height="520" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
-Shows that male customers make up 64.15% of churn, indicating a gender-skewed attrition trend.
+<img width="600" height="520" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" /> Shows that male customers make up 64.15% of churn, indicating a gender-skewed attrition trend.
+
 
 3. Churn distribution w.r.t Customer Contrat Distribution:
 <img width="600" height="520" alt="Contract Distribution" src="https://github.com/user-attachments/assets/39bfc6e8-9818-4e33-86d5-8e2e100a3615" />
