@@ -19,4 +19,6 @@ To detect early signs of potential churn, one must first develop a holistic view
 
   # Dataset:
 
-  [Telco Customer Churn](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction
+## 📊 Data Source
+
+This analysis is based on the [Telco Customer Churn](https://www.kaggle.com/code/bhartiprasad17/customer-churn-p)
