@@ -75,6 +75,7 @@ The data set includes information about:
 
 **8. Churn distribution w.r.t External Factors:**
 The primary driver of customer churn is competition, followed by customer attitude and dissatisfaction, with price being the least common factor.
+
 <img width="600" height="520" alt="Churn Factors" src="https://github.com/user-attachments/assets/afa34180-6ae3-4a49-92a6-8ce00ab42961" />
 
 ***
