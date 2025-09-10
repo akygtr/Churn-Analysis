@@ -18,7 +18,4 @@ To detect early signs of potential churn, one must first develop a holistic view
 * Finding a most suited machine learning model for correct classification of Churn and non churn customers.
 
   # Dataset:
-
-## 📊 Data Source
-
 This analysis is based on the [Telco Customer Churn](https://www.kaggle.com/code/bhartiprasad17/customer-churn-p)
