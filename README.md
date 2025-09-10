@@ -31,8 +31,13 @@ The data set includes information about:
 
 **Few Glimpse of EDA**
 
-1. Churn Distribution
+1. Churn Distribution:
 <img width="1298" height="170" alt="Screenshot 2025-09-10 131248" src="https://github.com/user-attachments/assets/679f63b8-53ac-4f18-b5ed-9cea7ba43939" />
 26.99 % of customers switched to another firm.
+
+2. Churn distribution with respect to gender:
+   <img width="1295" height="859" alt="Screenshot 2025-09-10 131911" src="https://github.com/user-attachments/assets/c1a091bc-43e0-4dab-badb-4c96720b6215" />
+
+4. 
 
 
